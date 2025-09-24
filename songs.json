@@ -6,10 +6,18 @@
       "url": "https://drive.google.com/uc?export=download&id=1K2uWyppYCOQdqtsktxTmCOTbxxU8vKXK",
       "image": "https://i.ytimg.com/vi/yZf4jxrIwvs/maxresdefault.jpg"
     },
-  
+    {
+      "title": "Test Song",
+      "artist": "Demo Artist", 
+      "url": "https://drive.google.com/uc?export=download&id=1dkVru-xSO_DROZhTRFlpR4P3-LX-WMXe",
+      "image": "https://via.placeholder.com/500x500/6366f1/ffffff?text=TEST"
+    },
+    {
+      "title": "Another Song", 
+      "artist": "Demo Artist",
+      "url": "https://file-examples.com/storage/fe68c1ad7401a66363d83c2/2017/11/file_example_MP3_700KB.mp3",
+      "image": "https://via.placeholder.com/500x500/f59e0b/ffffff?text=DEMO"
+    }
   ]
 }
-
-
-
 
