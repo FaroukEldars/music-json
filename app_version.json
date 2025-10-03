@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "apk_url": "https://drive.google.com/uc?export=download&id=YOUR_APK_FILE_ID",
+  "apk_url": "",
   "force_update": false,
-  "release_notes": "إصلاح أخطاء وتحسينات في الأداء"
+  "release_notes": "تحديث تجريبي - تحسينات في الأداء"
 }
