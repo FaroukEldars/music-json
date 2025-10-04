@@ -3,7 +3,7 @@
     "id": "1",
     "title": "course 01",
         "videoUrl": "https://e-learn-v2.runasp.net/A_ceea3ce93b1846e19746b73e69089892/51e31a61888f4dbba9386191e70153e1.mp4",
-    "thumbnail": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5
+    "thumbnail": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5"
     "description": "شرح كيفية تطبيق الفلتر الأول"
   },
   {
@@ -14,4 +14,5 @@
     "description": "شرح الفلتر الثاني وتطبيقه"
   }
 ]
+
 
