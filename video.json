@@ -9,11 +9,12 @@
   {
     "id": "2", 
     "title": "course 02",
-         "videoUrl": "https://www.pexels.com/download/video/1321208/",
+         "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "thumbnail": "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU",
     "description": "شرح الفلتر الثاني وتطبيقه"
   }
 ]
+
 
 
 
