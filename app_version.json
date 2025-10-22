@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
+  "version": "1.0.1",
   "apk_url": "https://drive.google.com/uc?export=download&id=14RXN_KIVLtGW5WVG56EN921pIsqkyv4M",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "Update_Test"
 }
 
